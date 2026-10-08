@@ -24,8 +24,8 @@ bin_name = "Parasite Eve (USA) (Disc 1).bin"
 cue_name = "Parasite Eve (USA) (Disc 1).cue"
 boot_exe = "SLUS_006.62"
 discs = [
-  "G:/ps1 ports/games to recomp/PARAsite eve/Parasite Eve (USA) (Disc 1).cue",
-  "G:/ps1 ports/games to recomp/PARAsite eve/Parasite Eve (USA) (Disc 2).cue",
+  "Parasite Eve (USA) (Disc 1).cue",
+  "Parasite Eve (USA) (Disc 2).cue",
 ]
 disc_serials = ["SLUS-00662", "SLUS-00668"]
 known_sizes = [495531120]
